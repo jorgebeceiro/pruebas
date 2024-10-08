@@ -1,0 +1,3 @@
+com\jorge\exampleweb\cxf\ws\ITeamService.class
+com\jorge\exampleweb\cxf\model\Player.class
+com\jorge\exampleweb\cxf\ws\impl\TeamServiceImpl.class
